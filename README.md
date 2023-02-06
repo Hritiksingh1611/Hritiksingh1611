@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hritik Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=programmer+gif+image+link&tbm=isch&ved=2ahUKEwiG-I6r2YD9AhVgHbcAHaTfAsgQ2-cCegQIABAA&oq=programmer+gif+image+link&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAcQHjoECAAQHjoGCAAQBRAeOgcIABCABBAYUKMDWIAXYJUaaABwAHgAgAG7AYgBmw-SAQQwLjEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=1dfgY8a5N-C63LUPpL-LwAw&bih=758&biw=1536#imgrc=ky-iVL4X7DNiXM&imgdii=2JKeF76tTWe0TM">
+<img align="right" alt="coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritiksingh1611&label=Profile%20views&color=0e75b6&style=flat" alt="hritiksingh1611" /> </p>
 
