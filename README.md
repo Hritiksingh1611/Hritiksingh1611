@@ -75,7 +75,7 @@ I’m a Data Engineer with experience building and maintaining scalable data sys
 ### 🧭 Recent GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hritiksingh1611&bg_color=ffffff&color=0366d6&line=0366d6&point=0e75b6&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritiksingh1611&bg_color=ffffff&color=0366d6&line=0366d6&point=0e75b6&area=true&hide_border=true" />
 </p>
 
 ---
@@ -91,9 +91,9 @@ If you'd like to connect or collaborate, feel free to reach out:
   <a href="https://twitter.com/hritik1611" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
   </a>
-  <a href="https://instagram.com/naam_hritik_" target="_blank">
+<!--   <a href="https://instagram.com/naam_hritik_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
-  </a>
+  </a> -->
 </p>
 
 ---
