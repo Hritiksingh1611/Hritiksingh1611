@@ -99,4 +99,4 @@ If you'd like to connect or collaborate, feel free to reach out:
 ---
 
 > This profile is a small window into the tools I use and the work I do.  
-> I'm always open to discussions around data systems, infrastructure, or anything technical that's thoughtfully built.
+> I'm always open to discussions around data systems, infrastructures, or anything technical that's thoughtfully built.
