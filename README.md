@@ -1,67 +1,69 @@
-<h1 align="center">Hi, I'm Hritik Singh 👋</h1>
-<h3 align="center">Data Engineer | Working with data pipelines, cloud platforms & databases</h3>
+<h1 align="center">Hritik Singh</h1>
+<h3 align="center">Data Engineer | Cloud & Analytics Professional</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coder" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-Hey there — I’m Hritik. I build data pipelines, move data between systems, clean it up, and make it useful for analytics, reporting, and automation. Most of my work lives on the cloud and works behind the scenes.
+I’m a Data Engineer with experience building and maintaining scalable data systems using modern cloud platforms. I focus on automating data workflows, improving data reliability, and ensuring performance across large datasets.
 
-- 🧱 I work a lot with **AWS (Glue, Redshift, S3, Lambda, DMS)**  
-- ☁️ Also comfortable with **Google Cloud (BigQuery, Cloud Functions)** and **Azure Data Factory**
-- 🧪 I write code in **Python**, SQL, and use **PySpark** when things get heavy
-- 🔄 Designed batch + near real-time ETL pipelines  
-- 🧰 I care about monitoring, cost, automation, and not reinventing the wheel  
-- 📌 Living in India and working on backend data stuff that makes dashboards possible
-
----
-
-### ⚙️ Languages, Tools & Services I Use
-
-#### ☁️ Cloud Platforms:
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-</p>
-
-#### 🔗 Data Engineering Stack:
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20DMS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redshift-4053D6?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-</p>
-
-#### 🗃️ Databases & Storage:
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazonaws&logoColor=white"/>
-</p>
-
-#### 🧪 Languages & Dev Tools:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-</p>
+- Core experience in **ETL/ELT pipelines**, **cloud data infrastructure**, and **data warehouse solutions**
+- Work primarily with **Python**, **SQL**, and distributed systems like **Spark**
+- Daily tools include **AWS Glue**, **Redshift**, **S3**, **Lambda**, **Airflow**, **PostgreSQL**, and **BigQuery**
+- Have delivered multiple data migration and transformation projects across AWS, GCP, and Azure environments
+- Comfortable managing production systems, optimizing cost, and handling failures gracefully
 
 ---
 
-### 📈 GitHub Stats
+### ⚒️ Core Skills & Tooling
+
+#### ☁️ Cloud Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>
+
+#### 🧩 Data Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Glue" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Redshift-4053D6?style=flat&logo=amazonaws&logoColor=white" alt="Redshift" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="ADF" />
+</p>
+
+#### 📦 Databases & Storage
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazonaws&logoColor=white" alt="S3" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+#### 🔧 Other Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hritiksingh1611&show_icons=true&count_private=true" height="160"/>
@@ -70,7 +72,17 @@ Hey there — I’m Hritik. I build data pipelines, move data between systems, c
 
 ---
 
-### 📍 Find Me Here
+### 🧭 Recent GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hritiksingh1611&bg_color=ffffff&color=0366d6&line=0366d6&point=0e75b6&area=true&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Contact
+
+If you'd like to connect or collaborate, feel free to reach out:
 
 <p align="left">
   <a href="https://linkedin.com/in/hritik-singh-304450206" target="_blank">
@@ -86,14 +98,5 @@ Hey there — I’m Hritik. I build data pipelines, move data between systems, c
 
 ---
 
-### 🧭 Recent Activity
-
-<!-- Dynamic Graph -->
-<p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hritiksingh1611&bg_color=ffffff&color=0366d6&line=0366d6&point=0e75b6&area=true&hide_border=true"/>
-</p>
-
----
-
-> I like simple tools that do the job well. If it's broken, I’ll probably try to automate it.  
-> Reach out if you're doing something interesting with data — always happy to chat.
+> This profile is a small window into the tools I use and the work I do.  
+> I'm always open to discussions around data systems, infrastructure, or anything technical that's thoughtfully built.
