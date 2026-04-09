@@ -63,14 +63,14 @@ I’m a Data Engineer with experience building and maintaining scalable data sys
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hritiksingh1611&show_icons=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritiksingh1611&layout=compact" height="160"/>
 </p>
-
----
+-->
 
 ### 🧭 Recent GitHub Activity
 
@@ -78,7 +78,7 @@ I’m a Data Engineer with experience building and maintaining scalable data sys
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritiksingh1611&bg_color=ffffff&color=0366d6&line=0366d6&point=0e75b6&area=true&hide_border=true" />
 </p>
 
----
+--->
 
 ### 📫 Contact
 
